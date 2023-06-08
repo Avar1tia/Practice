@@ -1,1 +1,12 @@
-# Practice
+<a href="https://docs.google.com/document/d/1Wg_BChoGUx8D4bd0jIf-HQXVNMDAtBwy/edit?usp=drivesdk&ouid=117718695914833510081&rtpof=true&sd=true">Отчёт</a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
