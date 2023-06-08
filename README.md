@@ -1,5 +1,5 @@
-<a href="https://docs.google.com/document/d/1Wg_BChoGUx8D4bd0jIf-HQXVNMDAtBwy/edit?usp=drivesdk&ouid=117718695914833510081&rtpof=true&sd=true">Отчёт</a>
-<a href="https://github.com/Avar1tia/neironki/blob/main/README.md">Код всех нейронок</a>
+<p><a href="https://docs.google.com/document/d/1Wg_BChoGUx8D4bd0jIf-HQXVNMDAtBwy/edit?usp=drivesdk&ouid=117718695914833510081&rtpof=true&sd=true">Отчёт</a></p>
+<p><a href="https://github.com/Avar1tia/neironki/blob/main/README.md">Код всех нейронок</a></p>
 <a href="https://drive.google.com/drive/folders/1NTRZH0bEXG7-j1y_SJ5-eNGL5lPUO8aJ?usp=sharing">Видео по нейронкам</a>
 <a href="https://drive.google.com/file/d/11T5D75gj5bwEBgnvhfSvD01v9AX1-0iv/view?usp=sharing">Обзор нейронок</a>
 <a href="https://colab.research.google.com/drive/1kQ-ZN5I9L9k2pR597iqDkVnStrzTNs2E?hl=ru">Сайт резюме</a>
